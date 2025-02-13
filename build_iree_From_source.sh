@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# download the exisiting mode 
+#  wget https://huggingface.co/qualcomm/MobileNet-v2/resolve/main/MobileNet-v2.tflite -O mobilenet_v2.tflite
 # Exit on any error
 set -e
 
